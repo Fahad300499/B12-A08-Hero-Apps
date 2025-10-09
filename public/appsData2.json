@@ -1,0 +1,220 @@
+[
+    {
+    "image": "https://play-lh.googleusercontent.com/bQPGB13unP9LzrnCTdtv96mxYaijlbpI2YodwxdtnBDX_NeVy1V4G1py-etFRseB2ll6",
+    "title": "ChatPro Messenger",
+    "companyName": "CommuniTech Solutions",
+    "id": 101,
+    "description": "A fast and secure messenger app with end-to-end encryption and custom themes.",
+    "size": 75,
+    "reviews": 12500,
+    "ratingAvg": 4.5,
+    "downloads": 550000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 6000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvtPdv4vFImX65uC0qp_NfEGfJu__0uMaEOQ&s",
+    "title": "FitTrack Pro",
+    "companyName": "HealthMetrics Inc.",
+    "id": 102,
+    "description": "Your ultimate fitness companion for tracking workouts, calories, and goals.",
+    "size": 150,
+    "reviews": 8900,
+    "ratingAvg": 3.8,
+    "downloads": 150000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 1400 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/-14ilMMZz5kGqNFuOGwJLaOS0dmcrSAv4krpIrErUGKo9YVDnXqP9hI6tSgCCf7Dpps5=w240-h480-rw",
+    "title": "PhotoEdit Studio",
+    "companyName": "CreativeApps Ltd.",
+    "id": 103,
+    "description": "Professional photo editing with advanced filters and layer support.",
+    "size": 320,
+    "reviews": 21000,
+    "ratingAvg": 4.8,
+    "downloads": 980000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 15000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRet5RaiUwX3P9NIiJDtCjXzBZ5iwTQlxt1tQ&s",
+    "title": "BudgetFlow Manager",
+    "companyName": "Financial Tools Co.",
+    "id": 104,
+    "description": "Easy-to-use personal finance manager to track expenses and set budgets.",
+    "size": 45,
+    "reviews": 3500,
+    "ratingAvg": 4.1,
+    "downloads": 320000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 1300 },
+      { "name": "5 star", "count": 1000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/I1VhSD33jaYw6nhlNAX-7zh5WetduI85RtKZAv39JA3pPIjtohJFpZb4TAkM4b9L4Fw",
+    "title": "BrainPuzzle Daily",
+    "companyName": "MindGames Studio",
+    "id": 105,
+    "description": "A collection of brain-teasing puzzles and logic games for daily mental exercise.",
+    "size": 90,
+    "reviews": 7200,
+    "ratingAvg": 4.0,
+    "downloads": 4100000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 1900 }
+    ]
+  },
+  {
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/2c/75/ae2c756b-beb9-a66f-8460-b23aaaba975a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x600wa.png",
+    "title": "GlobeTrek Planner",
+    "companyName": "Voyage Digital",
+    "id": 106,
+    "description": "Comprehensive trip planning and travel guide with offline maps.",
+    "size": 250,
+    "reviews": 5100,
+    "ratingAvg": 4.7,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 3000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/C9_y_lVVfWN5gP4MySkRDJ-YkIAAMYWn4gf2rzWeUSK6Yd5oc00OjFjEnmYKNbskmKQ=w240-h480-rw",
+    "title": "CodeMentor IDE",
+    "companyName": "DevGenius",
+    "id": 107,
+    "description": "Mobile code editor and compiler for learning and practicing programming languages.",
+    "size": 180,
+    "reviews": 6800,
+    "ratingAvg": 3.2,
+    "downloads": 800000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 1800 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 500 }
+    ]
+  },
+  {
+    "image": "https://thumbs.dreamstime.com/b/digital-recipe-app-tablet-showcasing-gourmet-food-plating-culinary-guidance-high-resolution-image-displaying-370618598.jpg",
+    "title": "Gourmet Recipes",
+    "companyName": "Culinary Tech",
+    "id": 108,
+    "description": "Thousands of step-by-step recipes with meal planning features.",
+    "size": 60,
+    "reviews": 1500,
+    "ratingAvg": 4.9,
+    "downloads": 220000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 1100 }
+    ]
+  },
+  {
+        "image": "https://play-lh.googleusercontent.com/5WQwihhJ_7ZShJZA_vguHi1AlqCt2i3IkB6ZZWjx1aZZLroQBmlO6MD8wSv3RYU_8eM=w240-h480-rw",
+    "title": "Aura Music Player",
+    "companyName": "SoundWave Labs",
+    "id": 109,
+    "description": "High-fidelity music streaming with personalized radio stations and offline support.",
+    "size": 110,
+    "reviews": 32000,
+    "ratingAvg": 4.6,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 9000 },
+      { "name": "5 star", "count": 19000 }
+    ]
+  },
+  {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPDG7HgieNzh5xaOzJol-AOFZJ9UUM5aMZwA&s",
+
+    "title": "SmartGarden Monitor",
+    "companyName": "AgriSense Technologies",
+    "id": 110,
+    "description": "IoT application for monitoring soil moisture, temperature, and light levels for home gardens.",
+    "size": 55,
+    "reviews": 950,
+    "ratingAvg": 3.5,
+    "downloads": 200000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 100 }
+    ]
+  },
+  {
+        "image": "https://images.squarespace-cdn.com/content/v1/5fb0aea913eba3050d739796/9ab06053-6dcd-41de-aef9-5dc22e32a420/image_123650291.JPG",
+
+    "title": "Canvas Sketchbook",
+    "companyName": "Digital Artistry",
+    "id": 111,
+    "description": "A versatile drawing app with multiple brush types and an intuitive color palette.",
+    "size": 280,
+    "reviews": 18000,
+    "ratingAvg": 4.3,
+    "downloads": 200000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 8000 }
+    ]
+  },
+  {
+       "image": "https://hips.hearstapps.com/hmg-prod/images/mondly-1588184085.png?crop=0.6666666666666666xw:1xh;center,top",
+    "title": "LinguaLearn Daily",
+    "companyName": "Global Minds Institute",
+    "id": 112,
+    "description": "Interactive lessons and quizzes to learn five major languages in a fun, daily format.",
+    "size": 95,
+    "reviews": 4500,
+    "ratingAvg": 4.8,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 2900 }
+    ]
+  }
+]
