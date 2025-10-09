@@ -33,9 +33,10 @@ const Installation = () => {
             setAppList(sortByDownloads);
         }
 
+
     }
 
-
+// haldleUninstall
     const handleUninstall = (id) => {
         removeFromDB(id);
         const remainingApps = appList.filter(ap => ap.id !== id);
