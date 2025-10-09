@@ -21,8 +21,8 @@ const AppDetails = () => {
     const handleInstalled = (id)=>{
         setSelect(true)
         MySwal.fire({
-  title: "Good job!",
-  text: "This App is Installed!",
+  title: "Grete!",
+  text: " App is Installed!",
   icon: "success"
 });
 
@@ -32,11 +32,10 @@ const AppDetails = () => {
 
     return (
         <div>
-            <div className='md:flex items-center p-10 gap-20 '>
+            <div className='md:flex items-center p-10 gap-18'>
 
-            
 
-            <img className='w-48' src={image} alt="" srcset="" />
+            <img className='w-46' src={image} alt="" srcset="" />
             <div>
                 <h1 className='font-bold text-3xl'>{title}</h1>
                 <p>Developed By {companyName}</p>
