@@ -41,7 +41,7 @@ const Navbar = () => {
     </ul>
   </div>
   <div className="navbar-end">
-    <a href='https://github.com/ProgrammingHero1/B12-A08-Hero-Apps/blob/main/Hero%20IO.fig' className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white"><FaGithub /> Contribute</a>
+    <a href='https://github.com/Fahad300499' className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white"><FaGithub /> Contribute</a>
   </div>
 </div>
 
