@@ -12,11 +12,11 @@ import {
 
 const RatingChart = () => {
   const data = [
-    { name: "5 star", count: 11500 },
-    { name: "4 star", count: 7000 },
-    { name: "3 star", count: 4000 },
-    { name: "2 star", count: 2500 },
-    { name: "1 star", count: 1500 },
+    { name: "5 star", counts: 11500 },
+    { name: "4 star", counts: 7000 },
+    { name: "3 star", counts: 4000 },
+    { name: "2 star", counts: 2500 },
+    { name: "1 star", counts: 1500 },
   ];
 
   return (
@@ -29,11 +29,11 @@ const RatingChart = () => {
           margin={{ top: 5, right: 30, left: 50, bottom: 5 }}
         >
           <CartesianGrid strokeDasharray="3 3" />
-          <XAxis type="number" label={{ value: "Count", position: "insideBottomRight", offset: -5 }} />
+          <XAxis type="number" label={{ value: "Counts", position: "insideBottomRight", offset: -5 }} />
           <YAxis dataKey="name" type="category" />
           <Tooltip />
           <Legend />
-          <Bar dataKey="count" fill="#ff8c00" barSize={30} />
+          <Bar dataKey="counts" fill="#ff8c00" barSize={30} />
         </BarChart>
       </ResponsiveContainer>
     </div>
