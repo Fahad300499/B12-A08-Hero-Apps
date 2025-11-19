@@ -13,4 +13,4 @@ This is a Mobile App Website. If you download any app there you can do it.
 
 | Category | Technology |
 | :--- | :--- |
-| **ফ্রন্টএন্ড** | React, Tailwind CSS / Bootstrap |
+| **ফ্রন্টএন্ড** | React, Tailwind CSS |
